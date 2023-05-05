@@ -1,15 +1,15 @@
 {
-  "name": "Oak Harbor Web Designs",
-  "email": "hello@oakharbor.com",
-  "phone": "555-779-4407",
-  "phoneFormatted": "(555) 779-4407",
+  "name": "Senoweb - Ondřej Senohrábek",
+  "email": "ondrej@senoweb.cz",
+  "phone": "+420731736631",
+  "phoneFormatted": "+420 731 736 631",
   "address": {
-    "lineOne": "First Address Line",
-    "lineTwo": "Second Address Line, If Needed",
-    "city": "Denver",
-    "county": "CO",
-    "postcode": "80206",
+    "lineOne": "Třebovská 441",
+    "lineTwo": "Second Address Line",
+    "city": "Ústí nad Orlicí",
+    "county": "UO",
+    "postcode": "56203",
     "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
   },
-  "domain": "www.website.com"
+  "domain": "www.senoweb.cz"
 }
